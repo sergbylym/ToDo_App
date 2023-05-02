@@ -10,7 +10,7 @@ const Check = ({isCompleted}) => {
            }
         </div>
     )
-}
+};
 
 
 export default Check;
